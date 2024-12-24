@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\bin\Debug\ConsoleApp15-2.exe.config
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\bin\Debug\ConsoleApp15-2.exe
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\bin\Debug\ConsoleApp15-2.pdb
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\obj\Debug\ConsoleApp15-2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\obj\Debug\ConsoleApp15-2.exe
+C:\Users\Kab-35-16\source\repos\ConsoleApp15-2\obj\Debug\ConsoleApp15-2.pdb
